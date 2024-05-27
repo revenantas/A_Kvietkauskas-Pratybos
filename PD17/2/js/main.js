@@ -1,0 +1,1 @@
+document.getElementById('text').innerHTML = "Sveiki, aš esu naujas tekstas!";
